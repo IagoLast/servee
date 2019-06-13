@@ -15,6 +15,6 @@ Local HTTPS server with CORS enabled. **NOT suitable for production** use it to 
     
     open https://localhost:5000
 
-## License
+## License
 
 MIT
