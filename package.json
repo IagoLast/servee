@@ -6,6 +6,7 @@
   "bin": {
     "servee": "index.js"
   },
+  "repository": "https://github.com/IagoLast/servee",
   "keywords": [
     "HTTPS",
     "SSL",
