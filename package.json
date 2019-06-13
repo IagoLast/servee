@@ -1,0 +1,21 @@
+{
+  "name": "sserve",
+  "version": "1.0.0",
+  "description": "A simple HTTPS server for local development that just works.",
+  "main": "index.js",
+  "bin": {
+    "sserve": "index.js"
+  },
+  "keywords": [
+    "HTTPS",
+    "SSL",
+    "SIMPLE",
+    "SERVER"
+  ],
+  "author": "@iagolast",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
