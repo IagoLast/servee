@@ -1,10 +1,10 @@
 {
-  "name": "sserve",
+  "name": "servee",
   "version": "1.0.0",
   "description": "A simple HTTPS server for local development that just works.",
   "main": "index.js",
   "bin": {
-    "sserve": "index.js"
+    "servee": "index.js"
   },
   "keywords": [
     "HTTPS",
