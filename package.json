@@ -11,7 +11,9 @@
     "HTTPS",
     "SSL",
     "SIMPLE",
-    "SERVER"
+    "SERVER",
+    "HTTPS",
+    "EASY"
   ],
   "author": "@iagolast",
   "license": "MIT",
