@@ -1,6 +1,6 @@
 {
   "name": "servee",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A simple HTTPS server for local development that just works.",
   "main": "index.js",
   "bin": {
